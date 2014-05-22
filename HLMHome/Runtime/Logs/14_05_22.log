@@ -1,0 +1,729 @@
+[ 2014-05-22T22:56:51+08:00 ] 0.0.0.0 /huileme/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.043002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.085005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 92 行.
+NOTIC: [8] Undefined variable: hotevents C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 211 行.
+NOTIC: [8] Undefined variable: hotquestions C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 298 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.431024s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.431024s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.021002s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.032002s ]
+INFO: [ view_end ] --END-- [ RunTime:0.033002s ]
+
+[ 2014-05-22T22:57:17+08:00 ] 0.0.0.0 /huileme/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\57da3beb3f74c2132c083f9cff2281ae.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\57da3beb3f74c2132c083f9cff2281ae.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\57da3beb3f74c2132c083f9cff2281ae.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\57da3beb3f74c2132c083f9cff2281ae.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.063004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063004s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-22T22:57:18+08:00 ] 0.0.0.0 /huileme/account/verifycode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-05-22T22:57:21+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.057003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-22T23:08:52+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-05-22T23:12:11+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.051003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-22T23:12:26+08:00 ] 0.0.0.0 /huileme/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\57da3beb3f74c2132c083f9cff2281ae.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\57da3beb3f74c2132c083f9cff2281ae.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\57da3beb3f74c2132c083f9cff2281ae.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\57da3beb3f74c2132c083f9cff2281ae.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.057003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-22T23:12:26+08:00 ] 0.0.0.0 /huileme/account/verifycode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-22T23:12:32+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-05-22T23:14:41+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-22T23:15:48+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.027002s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.068004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068004s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-22T23:16:55+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-22T23:17:39+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-05-22T23:18:36+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.069004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069004s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-05-22T23:19:29+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.046002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2014-05-22T23:31:29+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.051002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-05-22T23:32:13+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-05-22T23:32:59+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.072004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072004s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.008001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-05-22T23:33:06+08:00 ] 0.0.0.0 /huileme/account/check_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-22T23:36:34+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.015001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-22T23:36:46+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.044003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-05-22T23:37:06+08:00 ] 0.0.0.0 /huileme/account/check_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `hlm_user` [ RunTime:0.009000s ]
+SQL: SELECT * FROM `hlm_user` LIMIT 1   [ RunTime:0.001000s ]
+
+[ 2014-05-22T23:38:08+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-05-22T23:38:33+08:00 ] 0.0.0.0 /huileme/account/check_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `hlm_user` [ RunTime:0.009001s ]
+SQL: SELECT * FROM `hlm_user` WHERE ( `email` = 'skyfire_zju@163.com' ) LIMIT 1   [ RunTime:0.001000s ]
+
+[ 2014-05-22T23:39:05+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-22T23:41:19+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.044002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-05-22T23:41:31+08:00 ] 0.0.0.0 /huileme/account/check_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `hlm_user` [ RunTime:0.009001s ]
+SQL: SELECT * FROM `hlm_user` WHERE ( `email` = 'skyfire_zju@163.com' ) LIMIT 1   [ RunTime:0.001000s ]
+
+[ 2014-05-22T23:42:12+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-05-22T23:42:27+08:00 ] 0.0.0.0 /huileme/account/check_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `hlm_user` [ RunTime:0.009001s ]
+SQL: SELECT * FROM `hlm_user` WHERE ( `email` = 'skyfire_zju@163.com' ) LIMIT 1   [ RunTime:0.000000s ]
+
+[ 2014-05-22T23:43:36+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-22T23:44:14+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-22T23:44:23+08:00 ] 0.0.0.0 /huileme/account/check_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `hlm_user` [ RunTime:0.008001s ]
+SQL: SELECT * FROM `hlm_user` WHERE ( `email` = 'skyfire_zju@163.com' ) LIMIT 1   [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: is_group C:\xampp\htdocs\huileme\HLMHome\Lib\Action\AccountAction.class.php 第 46 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\huileme\HLMHome\Lib\Action\AccountAction.class.php 第 47 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\huileme\HLMHome\Lib\Action\AccountAction.class.php 第 57 行.
+NOTIC: [8] Undefined index: icon C:\xampp\htdocs\huileme\HLMHome\Lib\Action\AccountAction.class.php 第 59 行.
+
+[ 2014-05-22T23:44:23+08:00 ] 0.0.0.0 /huileme/__APP__/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined variable: group C:\xampp\htdocs\huileme\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:_APP__
+NOTIC: [2] include(): Filename cannot be empty C:\xampp\htdocs\huileme\ThinkPHP\Common\functions.php 第 52 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.;C:\xampp\php\PEAR;C:\xampp\htdocs\huileme\ThinkPHP/Extend/Vendor/') C:\xampp\htdocs\huileme\ThinkPHP\Common\functions.php 第 52 行.
+
+[ 2014-05-22T23:44:57+08:00 ] 0.0.0.0 /huileme/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\dcb5b3e204e1aa4bc4e115aa8691dd06.php 第 92 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-22T23:45:07+08:00 ] 0.0.0.0 /huileme/account/check_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `hlm_user` [ RunTime:0.009001s ]
+SQL: SELECT * FROM `hlm_user` WHERE ( `email` = 'skyfire_zju@163.com' ) LIMIT 1   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: is_group C:\xampp\htdocs\huileme\HLMHome\Lib\Action\AccountAction.class.php 第 46 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\huileme\HLMHome\Lib\Action\AccountAction.class.php 第 47 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\huileme\HLMHome\Lib\Action\AccountAction.class.php 第 57 行.
+NOTIC: [8] Undefined index: icon C:\xampp\htdocs\huileme\HLMHome\Lib\Action\AccountAction.class.php 第 59 行.
+
+[ 2014-05-22T23:45:08+08:00 ] 0.0.0.0 /huileme/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 81 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 86 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 89 行.
+NOTIC: [8] Undefined variable: current C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 92 行.
+NOTIC: [8] Undefined variable: hotevents C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 211 行.
+NOTIC: [8] Undefined variable: hotquestions C:\xampp\htdocs\huileme\HLMHome\Runtime\Cache\d5557d6264d45b4457310ba57f188038.php 第 298 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.054003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+

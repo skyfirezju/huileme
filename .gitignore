@@ -1,0 +1,3 @@
+.gitignore                #忽略.gitignore
+HLMHome/Runtime/Cache/*   #忽略运行文件
+

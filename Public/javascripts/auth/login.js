@@ -5,17 +5,11 @@ $(function(){
 	$('#username').blur(function(){
 		var username = $(this).val();
 		if(!username.replace(/[ ]/g,"")){
-			$("#usernamealert").text('请填写一卡通号');
+			$("#usernamealert").text('请填写账号');
 			isa = false;
 		}
 		else{
-			if(isNaN(username)){
-				$("#usernamealert").text("请填写正确的一卡通号");
-				isa = false;
-			}else{
-				$("#usernamealert").text("");
-				isa = true;
-			}
+			isa = true;
 		}
 	});
 	$('#password').blur(function(){
@@ -34,12 +28,12 @@ $(function(){
 	$('#submit').click(function(){
 		if(isa && isp){
 			$.post('account/check_login', {
-				account: $('#username').val()+"@seu.edu.cn", 
+				account: $('#username').val(), 
 				password: $('#password').val(), 
 				rememberme: document.getElementById('rememberme').checked
 			}, function(data){
 					if(data.status){
-						window.location.href = '/';
+						window.location.href = 'index';
 					}else{
 						// alert(data.info);	
 						$("#title").text(data.info);

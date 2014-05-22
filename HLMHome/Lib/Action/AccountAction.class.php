@@ -17,7 +17,42 @@ class AccountAction extends Action {
 
 	// 登录检测
 	public function checkLogin() {
-
+		$account = I('param.account');
+		$password = I('param.password');
+		$rememberme = I('param.rememberme');
+		if(empty($account)) {
+			$this->error('账号错误!');
+		} else if(empty($password)) {
+			$this->error('密码为空!');
+		}
+		$user = M('User');
+		$map['email'] = $account;
+		$result = $user->where($map)->find();
+		if($result === false){
+			$this->ajaxReturn('', '查询数据库出错!', 0);
+		}
+		elseif($result === null){
+			$this->ajaxReturn('', '帐号错误!', 0);
+		}
+		elseif($result['status'] == 0){
+			$this->ajaxReturn('', '帐号未激活!', 0);
+		}
+		elseif($result['pwd'] != md5($password)){
+			$this->ajaxReturn('', '密码错误!', 0);
+		}
+		else{
+			//将用户ID存入session
+			if($rememberme){
+				cookie('account',$result['email'],864000);
+				cookie('password',$result['pwd'],864000);
+			}
+			session('rememberme', $rememberme);
+			session('userId',$result['id']);
+			session('account',$result['email']);
+			session('userName',$result['name']);
+			session('icon',$result['icon']);
+			$this->ajaxReturn('', '', 1);
+		}
 	}
 
 	// 登出
